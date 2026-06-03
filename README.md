@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗ ██╗   ██╗███╗   ███╗ ██████╗ ███╗   ██╗███████╗████████╗███████╗██████╗ 
- ██╔══██╗██║   ██║████╗ ████║██╔═══██╗████╗  ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗
- ██║  ██║██║   ██║██╔████╔██║██║   ██║██╔██╗ ██║███████╗   ██║   █████╗  ██████╔╝
- ██║  ██║██║   ██║██║╚██╔╝██║██║   ██║██║╚██╗██║╚════██║   ██║   ██╔══╝  ██╔══██╗
- ██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████║   ██║   ███████╗██║  ██║
- ╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+ ██████╗ ██╗   ██╗███╗   ███╗ ██████╗ ███╗   ██╗███████╗████████╗███████╗
+ ██╔══██╗██║   ██║████╗ ████║██╔═══██╗████╗  ██║██╔════╝╚══██╔══╝██╔════╝
+ ██║  ██║██║   ██║██╔████╔██║██║   ██║██╔██╗ ██║███████╗   ██║   █████╗
+ ██║  ██║██║   ██║██║╚██╔╝██║██║   ██║██║╚██╗██║╚════██║   ██║   ██╔══╝
+ ██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████║   ██║   ███████╗
+ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝
 ```
 
 ### `< /DuMon$ter |>` — Edson Azevedo · eles/eles
@@ -73,13 +73,17 @@ const duMonster = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonDuMonSter&theme=radical&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdsonDuMonSter&theme=github_dark" />
+</div>
+
 ---
 
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tech |
 |--------|-----------|------|
-| 🌐 [site-apresentação-provenis](https://github.com/EdsonDuMonSter/site-apresentacao-prov...) | Site oficial da Companhia Provenis | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+| 🌐 [site-apresentação-provenis](https://github.com/EdsonDuMonSter/site-apresentacao-provenis) | Site oficial da Companhia Provenis | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | 🤖 [bot_provenis](https://github.com/EdsonDuMonSter/bot_provenis) | Bot automatizado para o Sistema Provenis | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 
 ---
