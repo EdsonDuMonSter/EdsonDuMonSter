@@ -70,10 +70,6 @@ const duMonster = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonDuMonSter&theme=radical&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdsonDuMonSter&theme=github_dark" />
 </div>
 
@@ -119,7 +115,7 @@ Membro ativo da **[Sistema Provenis](https://github.com/ProvenisSystem)** desde 
 
 <div align="center">
 
-```
+```js
 // "Todo bug é uma feature esperando para ser compreendida." — DuMon$ter
 ```
 
