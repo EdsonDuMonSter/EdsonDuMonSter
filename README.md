@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
  ██████╗ ██╗   ██╗███╗   ███╗ ██████╗ ███╗   ██╗███████╗████████╗███████╗
  ██╔══██╗██║   ██║████╗ ████║██╔═══██╗████╗  ██║██╔════╝╚══██╔══╝██╔════╝
  ██║  ██║██║   ██║██╔████╔██║██║   ██║██╔██╗ ██║███████╗   ██║   █████╗
@@ -9,9 +9,9 @@
  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝
 ```
 
-### `< /DuMon$ter |>` — Edson Azevedo · eles/eles
+### `</DuMon$ter|>` — Edson Azevedo · eles/eles
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;HTML+%7C+TypeScript+%7C+React+%7C+Node.js;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Companhia+Provenis+%7C+Sistema+Provenis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;HTML+%7C+TypeScript+%7C+React+%7C+Node.js;Construindo+solu%C3%A7%C3%B5es+com+identidade+e+performance;C%C3%B3digo+limpo%2C+mente+afiada%2C+entrega+constante.)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,19 +19,23 @@
 
 ## 🧠 Sobre mim
 
+<div align="center">
+
 ```typescript
 const duMonster = {
-  nome:       "Edson Azevedo",
-  alias:      "</DuMon$ter|>",
-  pronomes:   "eles/eles",
-  empresa:    "Companhia Provenis",
-  foco:       "Full Stack Development",
-  email:      "edsondumonster@gmail.com",
-  stack:      ["HTML", "CSS", "TypeScript", "React", "Node.js"],
-  atual:      "Construindo o Sistema Provenis 🏗️",
-  filosofia:  "Código limpo, mente afiada, entrega constante.",
+  nome: "Edson Azevedo",
+  alias: "</DuMon$ter|>",
+  pronomes: "eles/eles",
+  empresa: "Companhia Provenis",
+  foco: "Full Stack Development",
+  email: "edsondumonster@gmail.com",
+  stack: ["HTML", "CSS", "TypeScript", "React", "Node.js", "Next.js", "Express"],
+  atual: "Construindo o Sistema Provenis 🏗️",
+  filosofia: "Código limpo, mente afiada, entrega constante.",
 };
 ```
+
+</div>
 
 ---
 
@@ -39,7 +43,7 @@ const duMonster = {
 
 <div align="center">
 
-**Frontend**
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,12 +51,12 @@ const duMonster = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Backend**
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Ferramentas**
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -66,21 +70,37 @@ const duMonster = {
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=EdsonDuMonSter&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonDuMonSter&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonDuMonSter&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdsonDuMonSter&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=EdsonDuMonSter&theme=radical&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </div>
+
+> ℹ️ Alguns cards externos podem mostrar menos commits do que o total real do GitHub, especialmente em casos de commits privados, forks, organizações, cache ou emails diferentes.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tech |
-|--------|-----------|------|
-| 🌐 [site-apresentação-provenis](https://github.com/EdsonDuMonSter/site-apresentacao-provenis) | Site oficial da Companhia Provenis | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
-| 🤖 [bot_provenis](https://github.com/EdsonDuMonSter/bot_provenis) | Bot automatizado para o Sistema Provenis | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="420">
+      <a href="https://github.com/EdsonDuMonSter/site-apresentacao-provenis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonDuMonSter&repo=site-apresentacao-provenis&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=39D353" />
+      </a>
+    </td>
+    <td align="center" width="420">
+      <a href="https://github.com/EdsonDuMonSter/bot_provenis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonDuMonSter&repo=bot_provenis&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=39D353" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -88,7 +108,7 @@ const duMonster = {
 
 <div align="center">
 
-Membro ativo da **[Sistema Provenis](https://github.com/ProvenisSystem)** desde Abril/2026
+Membro ativo da **[Sistema Provenis](https://github.com/ProvenisSystem)** desde **abril de 2026**.
 
 </div>
 
