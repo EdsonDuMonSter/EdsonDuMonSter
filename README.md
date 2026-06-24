@@ -14,6 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;HTML+%7C+TypeScript+%7C+React+%7C+Node.js;Construindo+solu%C3%A7%C3%B5es+com+identidade+e+performance;C%C3%B3digo+limpo%2C+mente+afiada%2C+entrega+constante.)](https://git.io/typing-svg)
 
 </div>
+
 ---
 
 ## 🛠️ Stack & Tecnologias
